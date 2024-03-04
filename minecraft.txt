@@ -1,0 +1,6 @@
+payload:
+  - 'xboxlive.com'
+  - 'minecraft-services.net'
+  - 'minecraft.net'
+  - 'mojang.com'
+  - 'cubecraft.net'
