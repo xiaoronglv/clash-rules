@@ -1,0 +1,7 @@
+payload:
+  - 'getepic.com'
+  - 'twitter.com'
+  - 'youtube.com'
+  - 'bac-assets.com'
+  - 'bankofamerica.com'
+  - 'interactivebrokers.com'
